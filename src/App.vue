@@ -20,6 +20,23 @@ const testData: ColumnProps[] = [
     title: 'test2的专栏',
     description: '这是的test2专栏，有一段非常有意思的简介，可以更新一下欧',
     avatar: 'http://vue-maker.oss-cn-hangzhou.aliyuncs.com/vue-marker/5f3e41adb7d9c60b68cdd1ed.jpg'
+  },
+  {
+    id: 3,
+    title: 'test3的专栏',
+    description: '这是的test3专栏，有一段非常有意思的简介，可以更新一下欧'
+  },
+  {
+    id: 4,
+    title: 'test4的专栏',
+    description: '这是的test4专栏，有一段非常有意思的简介，可以更新一下欧',
+    avatar: 'http://vue-maker.oss-cn-hangzhou.aliyuncs.com/vue-marker/5f3e41adb7d9c60b68cdd1ed.jpg'
+  },
+  {
+    id: 5,
+    title: 'test5的专栏',
+    description: '这是的test5专栏，有一段非常有意思的简介，可以更新一下欧',
+    avatar: 'http://vue-maker.oss-cn-hangzhou.aliyuncs.com/vue-marker/5f3e41adb7d9c60b68cdd1ed.jpg'
   }
 ]
 
