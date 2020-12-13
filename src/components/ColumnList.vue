@@ -13,7 +13,7 @@
     </div>
 </template>
 
-<script lang="ts">
+<script lang="ts"> 
 import { computed, defineComponent, PropType } from 'vue'
 export interface ColumnProps {
     id: number;
